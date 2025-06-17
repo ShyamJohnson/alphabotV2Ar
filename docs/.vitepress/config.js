@@ -1,6 +1,6 @@
 export default {
 
-    base: '/', // 
+    base: 'https://github.com/ShyamJohnson/alphabotV2Ar/', // 
     title: 'AlphaBot-V2-Ar Documentation',
 
   themeConfig: {
